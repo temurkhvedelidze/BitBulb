@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="background">
+    <file>game_background.png</file>
+  </qresource>
+  <qresource prefix="computer">
+    <file>computer.png</file>
+  </qresource>
+  <qresource prefix="lightbulbs">
+    <file>lightbulb_off.png</file>
+    <file>lightbulb_on.png</file>
+  </qresource>
+</RCC>

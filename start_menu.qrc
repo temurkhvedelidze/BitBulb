@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="background">
+    <file>main_menu.png</file>
+  </qresource>
+  <qresource prefix="button">
+    <file>start button.png</file>
+  </qresource>
+</RCC>
